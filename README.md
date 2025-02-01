@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um projeto que mostra os jogos da Copa de 2022.
+O DevLinks é um projeto que mostra a personalização de um ambiente que hospeda links.
 
 ## 🔖 Layout
 
